@@ -16,3 +16,5 @@ The file "LLM-Fine-tuning.ipynb" contains the code for tokenization of a dataset
 data collator, implementation of Quantized Low Rank Adaptation (QLoRA), hyperparameter optimization with Ray Tune, 
 final fine-tuning of a base model, and evaluation with Perplexity, Bilingual Evaluation Understudy (BLEU), Metric
 for Evaluation of Translation with Explicit ORdering (METEOR).
+
+The fine-tuned model and some preprocessed datasets can be found at https://huggingface.co/fbnhnsl
