@@ -1,0 +1,370 @@
+{
+    "secure_function": {
+        "0": {
+            "0": {
+                "bleu_pretrained": 0.02044162024412184,
+                "bleu_finetuned": 0.20051008076581076,
+                "meteor_pretrained": 0.18813586211723282,
+                "meteor_finetuned": 0.4869742841170899,
+                "vulnerable_hits": 0
+            }
+        },
+        "1": {
+            "1": {
+                "bleu_pretrained": 0.021588155938760473,
+                "bleu_finetuned": 0.20263947614250735,
+                "meteor_pretrained": 0.18769994737580853,
+                "meteor_finetuned": 0.48958815640971626,
+                "vulnerable_hits": 0
+            }
+        },
+        "2": {
+            "2": {
+                "bleu_pretrained": 0.02110086065195097,
+                "bleu_finetuned": 0.20238871457175792,
+                "meteor_pretrained": 0.18800348138165687,
+                "meteor_finetuned": 0.4894468792657941,
+                "vulnerable_hits": 0
+            }
+        },
+        "3": {
+            "3": {
+                "bleu_pretrained": 0.020092360644398496,
+                "bleu_finetuned": 0.20072188152615364,
+                "meteor_pretrained": 0.1865868691669869,
+                "meteor_finetuned": 0.4858922516479231,
+                "vulnerable_hits": 1
+            }
+        },
+        "4": {
+            "4": {
+                "bleu_pretrained": 0.019301599758616343,
+                "bleu_finetuned": 0.1990020995112855,
+                "meteor_pretrained": 0.18389633005025982,
+                "meteor_finetuned": 0.4857324117083767,
+                "vulnerable_hits": 0
+            }
+        },
+        "5": {
+            "5": {
+                "bleu_pretrained": 0.02016873766893605,
+                "bleu_finetuned": 0.1979616392562771,
+                "meteor_pretrained": 0.1860405850026347,
+                "meteor_finetuned": 0.4870574254513246,
+                "vulnerable_hits": 0
+            }
+        },
+        "6": {
+            "6": {
+                "bleu_pretrained": 0.02203993021079714,
+                "bleu_finetuned": 0.19805339220622517,
+                "meteor_pretrained": 0.18897967310688737,
+                "meteor_finetuned": 0.4863689946671757,
+                "vulnerable_hits": 0
+            }
+        },
+        "7": {
+            "7": {
+                "bleu_pretrained": 0.020530842703043856,
+                "bleu_finetuned": 0.2022684681216842,
+                "meteor_pretrained": 0.18888288707344392,
+                "meteor_finetuned": 0.4890199725562911,
+                "vulnerable_hits": 0
+            }
+        },
+        "8": {
+            "8": {
+                "bleu_pretrained": 0.02163331615545294,
+                "bleu_finetuned": 0.20030719135871042,
+                "meteor_pretrained": 0.1922721937249768,
+                "meteor_finetuned": 0.4878587126492678,
+                "vulnerable_hits": 0
+            }
+        },
+        "9": {
+            "9": {
+                "bleu_pretrained": 0.01948680468209592,
+                "bleu_finetuned": 0.20342702819324335,
+                "meteor_pretrained": 0.18573758986626446,
+                "meteor_finetuned": 0.49031770135894115,
+                "vulnerable_hits": 0
+            }
+        }
+    },
+    "vulnerable_function": {
+        "0": {
+            "0": {
+                "bleu_pretrained": 0.021332844023052095,
+                "bleu_finetuned": 0.19136062713319885,
+                "meteor_pretrained": 0.16994683612499417,
+                "meteor_finetuned": 0.41944881691514296,
+                "vulnerable_hits": 111
+            }
+        },
+        "1": {
+            "1": {
+                "bleu_pretrained": 0.02183231335820648,
+                "bleu_finetuned": 0.192788296455915,
+                "meteor_pretrained": 0.169463392199172,
+                "meteor_finetuned": 0.421243894708233,
+                "vulnerable_hits": 109
+            }
+        },
+        "2": {
+            "2": {
+                "bleu_pretrained": 0.02111385823863536,
+                "bleu_finetuned": 0.19286705345496863,
+                "meteor_pretrained": 0.17304664533362876,
+                "meteor_finetuned": 0.4222392836856639,
+                "vulnerable_hits": 113
+            }
+        },
+        "3": {
+            "3": {
+                "bleu_pretrained": 0.022918549300218728,
+                "bleu_finetuned": 0.18996807042537514,
+                "meteor_pretrained": 0.17441916646767366,
+                "meteor_finetuned": 0.4179615221840771,
+                "vulnerable_hits": 114
+            }
+        },
+        "4": {
+            "4": {
+                "bleu_pretrained": 0.02067267781689774,
+                "bleu_finetuned": 0.19153131617891295,
+                "meteor_pretrained": 0.1726173629206171,
+                "meteor_finetuned": 0.417459399269511,
+                "vulnerable_hits": 112
+            }
+        },
+        "5": {
+            "5": {
+                "bleu_pretrained": 0.020900801207975703,
+                "bleu_finetuned": 0.19152304288298042,
+                "meteor_pretrained": 0.17181701543511682,
+                "meteor_finetuned": 0.4199746131396507,
+                "vulnerable_hits": 111
+            }
+        },
+        "6": {
+            "6": {
+                "bleu_pretrained": 0.021534128224059125,
+                "bleu_finetuned": 0.190998154183646,
+                "meteor_pretrained": 0.17257845365054927,
+                "meteor_finetuned": 0.41979955693420257,
+                "vulnerable_hits": 112
+            }
+        },
+        "7": {
+            "7": {
+                "bleu_pretrained": 0.021720040456998522,
+                "bleu_finetuned": 0.19177109947235846,
+                "meteor_pretrained": 0.17174586722293836,
+                "meteor_finetuned": 0.42251851970564364,
+                "vulnerable_hits": 109
+            }
+        },
+        "8": {
+            "8": {
+                "bleu_pretrained": 0.020862512372587207,
+                "bleu_finetuned": 0.19260719555378306,
+                "meteor_pretrained": 0.17141862509975045,
+                "meteor_finetuned": 0.42111743479594754,
+                "vulnerable_hits": 110
+            }
+        },
+        "9": {
+            "9": {
+                "bleu_pretrained": 0.02124044411571185,
+                "bleu_finetuned": 0.19024668403409203,
+                "meteor_pretrained": 0.17128521771583435,
+                "meteor_finetuned": 0.4177642421366752,
+                "vulnerable_hits": 112
+            }
+        }
+    },
+    "import": {
+        "0": {
+            "0": {
+                "bleu_pretrained": 0.0,
+                "bleu_finetuned": 0.8314688478652521,
+                "meteor_pretrained": 0.0922873943530412,
+                "meteor_finetuned": 0.9143119251121328,
+                "vulnerable_hits": 0
+            }
+        },
+        "1": {
+            "1": {
+                "bleu_pretrained": 0.0,
+                "bleu_finetuned": 0.8314688478652521,
+                "meteor_pretrained": 0.09135035626599074,
+                "meteor_finetuned": 0.9143119251121328,
+                "vulnerable_hits": 0
+            }
+        },
+        "2": {
+            "2": {
+                "bleu_pretrained": 0.0,
+                "bleu_finetuned": 0.8314688478652521,
+                "meteor_pretrained": 0.09354425741150536,
+                "meteor_finetuned": 0.9143119251121328,
+                "vulnerable_hits": 0
+            }
+        },
+        "3": {
+            "3": {
+                "bleu_pretrained": 0.0,
+                "bleu_finetuned": 0.8288160695728475,
+                "meteor_pretrained": 0.09141594398087835,
+                "meteor_finetuned": 0.912331252514903,
+                "vulnerable_hits": 0
+            }
+        },
+        "4": {
+            "4": {
+                "bleu_pretrained": 0.0,
+                "bleu_finetuned": 0.8314688478652521,
+                "meteor_pretrained": 0.094994833808616,
+                "meteor_finetuned": 0.9143119251121328,
+                "vulnerable_hits": 0
+            }
+        },
+        "5": {
+            "5": {
+                "bleu_pretrained": 0.0,
+                "bleu_finetuned": 0.8314688478652521,
+                "meteor_pretrained": 0.09240069510355317,
+                "meteor_finetuned": 0.9143119251121328,
+                "vulnerable_hits": 0
+            }
+        },
+        "6": {
+            "6": {
+                "bleu_pretrained": 0.0,
+                "bleu_finetuned": 0.8314688478652521,
+                "meteor_pretrained": 0.09097324133483146,
+                "meteor_finetuned": 0.9143119251121328,
+                "vulnerable_hits": 0
+            }
+        },
+        "7": {
+            "7": {
+                "bleu_pretrained": 0.0,
+                "bleu_finetuned": 0.8288160695728475,
+                "meteor_pretrained": 0.09188907716091414,
+                "meteor_finetuned": 0.912331252514903,
+                "vulnerable_hits": 0
+            }
+        },
+        "8": {
+            "8": {
+                "bleu_pretrained": 0.0,
+                "bleu_finetuned": 0.8314688478652521,
+                "meteor_pretrained": 0.09304821349542283,
+                "meteor_finetuned": 0.9143119251121328,
+                "vulnerable_hits": 0
+            }
+        },
+        "9": {
+            "9": {
+                "bleu_pretrained": 0.0,
+                "bleu_finetuned": 0.8314688478652521,
+                "meteor_pretrained": 0.09277915578676177,
+                "meteor_finetuned": 0.9143119251121328,
+                "vulnerable_hits": 0
+            }
+        }
+    },
+    "modifier": {
+        "0": {
+            "0": {
+                "bleu_pretrained": 0.012628199434974043,
+                "bleu_finetuned": 0.19862091102281335,
+                "meteor_pretrained": 0.16064827555892805,
+                "meteor_finetuned": 0.5681294720244691,
+                "vulnerable_hits": 0
+            }
+        },
+        "1": {
+            "1": {
+                "bleu_pretrained": 0.013285720149098602,
+                "bleu_finetuned": 0.1990101828774823,
+                "meteor_pretrained": 0.16342456235604222,
+                "meteor_finetuned": 0.5673832623396801,
+                "vulnerable_hits": 0
+            }
+        },
+        "2": {
+            "2": {
+                "bleu_pretrained": 0.01309066405846718,
+                "bleu_finetuned": 0.19656710881061046,
+                "meteor_pretrained": 0.15583074677029093,
+                "meteor_finetuned": 0.5741302904816269,
+                "vulnerable_hits": 0
+            }
+        },
+        "3": {
+            "3": {
+                "bleu_pretrained": 0.01322550646527544,
+                "bleu_finetuned": 0.19904060750093286,
+                "meteor_pretrained": 0.16103355577194423,
+                "meteor_finetuned": 0.5758454827142344,
+                "vulnerable_hits": 0
+            }
+        },
+        "4": {
+            "4": {
+                "bleu_pretrained": 0.01259820125251126,
+                "bleu_finetuned": 0.19526179845860175,
+                "meteor_pretrained": 0.1512982408556766,
+                "meteor_finetuned": 0.5723805392239049,
+                "vulnerable_hits": 0
+            }
+        },
+        "5": {
+            "5": {
+                "bleu_pretrained": 0.012996901689774775,
+                "bleu_finetuned": 0.1971531439728794,
+                "meteor_pretrained": 0.1621391141758707,
+                "meteor_finetuned": 0.5725826890930072,
+                "vulnerable_hits": 0
+            }
+        },
+        "6": {
+            "6": {
+                "bleu_pretrained": 0.013082803659891349,
+                "bleu_finetuned": 0.1984441726066123,
+                "meteor_pretrained": 0.1590387919145082,
+                "meteor_finetuned": 0.5691575428107181,
+                "vulnerable_hits": 0
+            }
+        },
+        "7": {
+            "7": {
+                "bleu_pretrained": 0.011605031343438956,
+                "bleu_finetuned": 0.20194875411304763,
+                "meteor_pretrained": 0.15704921617271864,
+                "meteor_finetuned": 0.5751601209109763,
+                "vulnerable_hits": 0
+            }
+        },
+        "8": {
+            "8": {
+                "bleu_pretrained": 0.013309205715262618,
+                "bleu_finetuned": 0.19635425650476163,
+                "meteor_pretrained": 0.16400547905631596,
+                "meteor_finetuned": 0.5747177354345884,
+                "vulnerable_hits": 0
+            }
+        },
+        "9": {
+            "9": {
+                "bleu_pretrained": 0.013640800798837335,
+                "bleu_finetuned": 0.19882970817138734,
+                "meteor_pretrained": 0.1624788874735692,
+                "meteor_finetuned": 0.5738700209702683,
+                "vulnerable_hits": 0
+            }
+        }
+    }
+}
