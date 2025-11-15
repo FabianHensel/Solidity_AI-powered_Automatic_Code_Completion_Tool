@@ -1,0 +1,8 @@
+Copyright (c) 2025, Fabian Hensel. All rights reserved.
+
+You are free to use this software for private or educational purposes.
+Redistribution of any kind is NOT allowed without written permission.
+
+If you want to give this program to someone else, point them to the
+original author Fabian Hensel.
+E-Mail: fabianhensel6@googlemail.com
