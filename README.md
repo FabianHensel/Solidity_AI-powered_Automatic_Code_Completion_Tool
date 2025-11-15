@@ -1,3 +1,5 @@
+# Solidity AI-powered Automatic Code Completion Tool
+
 This repository contains the code which was used to create an AI-powered automatic completion tool for Solidity code. 
 With the code from "Preprocessing_Solidity_Dataset.ipynb" a Solidity dataset was created. This dataset was used to
 fine-tune a Large Language Model with the code from "LLM-Fine-tuning.ipynb".
